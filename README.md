@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/just-our-breathing/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Just Our Breathing](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/just-our-breathing/) |
+| **Get License** | [Secure Licensing Rights for Just Our Breathing](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/just-our-breathing/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Leave the fading porch light burning low
+> I just want to pull you close to me
+> Let the busy world outside us go
+> Tonight is right where I am supposed to be
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
