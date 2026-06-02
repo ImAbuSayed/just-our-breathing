@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/just-our-breathing/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Just Our Breathing](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/just-our-breathing/) |
+| **Get License** | [License this song: Just Our Breathing](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/just-our-breathing/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `23940bbd5f9bd584fc8180a798c8aa7d40db9f78f5d03d5d599907c4a9cb4284` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

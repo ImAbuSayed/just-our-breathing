@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Just Our Breathing
+
+This log tracks the cryptographic history and versioning for the song **Just Our Breathing** (just-our-breathing).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-02T15:08:39.139780 | `v1` | `23940bbd5f9bd584fc8180a798c8aa7d40db9f78f5d03d5d599907c4a9cb4284` | `ad8f52eb530878f9981231d8e8fb17904df827f40613b338accbb6c3b42680b9` | `2026-06-02_just-our-breathing-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
